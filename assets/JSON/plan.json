@@ -1,0 +1,976 @@
+{
+  "troncal": {
+    "niveles": [
+      {
+        "nombre": "Primer Nivel",
+        "asignaturas": [
+          {
+            "nro": 1,
+            "asignatura": "Análisis Matemático I",
+            "horas": {
+              "anuales": 5,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [],
+              "aprobada": []
+            }
+          },
+          {
+            "nro": 2,
+            "asignatura": "Álgebra y Geometría Analítica",
+            "horas": {
+              "anuales": 5,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [],
+              "aprobada": []
+            }
+          },
+          {
+            "nro": 3,
+            "asignatura": "Física I",
+            "horas": {
+              "anuales": 5,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [],
+              "aprobada": []
+            }
+          },
+          {
+            "nro": 4,
+            "asignatura": "Inglés I",
+            "horas": {
+              "anuales": 2,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [],
+              "aprobada": []
+            }
+          },
+          {
+            "nro": 5,
+            "asignatura": "Lógica y Estructuras Discretas",
+            "horas": {
+              "anuales": 3,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [],
+              "aprobada": []
+            }
+          },
+          {
+            "nro": 6,
+            "asignatura": "Algoritmos y Estructuras de Datos",
+            "horas": {
+              "anuales": 5,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [],
+              "aprobada": []
+            }
+          },
+          {
+            "nro": 7,
+            "asignatura": "Arquitecturas de Computadoras",
+            "horas": {
+              "anuales": 4,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [],
+              "aprobada": []
+            }
+          },
+          {
+            "nro": 8,
+            "asignatura": "Sistemas y Procesos de Negocios",
+            "horas": {
+              "anuales": 3,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [],
+              "aprobada": []
+            }
+          }
+        ]
+      },
+      {
+        "nombre": "Segundo Nivel",
+        "asignaturas": [
+          {
+            "nro": 9,
+            "asignatura": "Análisis Matemático II",
+            "horas": {
+              "anuales": 5,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [
+                1,
+                2
+              ],
+              "aprobada": []
+            }
+          },
+          {
+            "nro": 10,
+            "asignatura": "Física II",
+            "horas": {
+              "anuales": 5,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [
+                1,
+                3
+              ],
+              "aprobada": []
+            }
+          },
+          {
+            "nro": 11,
+            "asignatura": "Ingeniería y Sociedad",
+            "horas": {
+              "anuales": 2,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [],
+              "aprobada": []
+            }
+          },
+          {
+            "nro": 12,
+            "asignatura": "Inglés II",
+            "horas": {
+              "anuales": 2,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [
+                4
+              ],
+              "aprobada": []
+            }
+          },
+          {
+            "nro": 13,
+            "asignatura": "Sintaxis y Semántica del Lenguaje (1er Cuatr.)",
+            "horas": {
+              "anuales": 4,
+              "cuatrim": 8
+            },
+            "correlatividades": {
+              "cursada": [
+                5,
+                6
+              ],
+              "aprobada": []
+            }
+          },
+          {
+            "nro": 14,
+            "asignatura": "Paradigmas de Programación (2do Cuatr.)",
+            "horas": {
+              "anuales": 4,
+              "cuatrim": 8
+            },
+            "correlatividades": {
+              "cursada": [
+                5,
+                6
+              ],
+              "aprobada": []
+            }
+          },
+          {
+            "nro": 15,
+            "asignatura": "Sistemas Operativos",
+            "horas": {
+              "anuales": 4,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [
+                7
+              ],
+              "aprobada": []
+            }
+          },
+          {
+            "nro": 16,
+            "asignatura": "Análisis de Sistemas de Información (Integradora)",
+            "horas": {
+              "anuales": 6,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [
+                6,
+                8
+              ],
+              "aprobada": []
+            }
+          }
+        ]
+      },
+      {
+        "nombre": "Tercer Nivel",
+        "asignaturas": [
+          {
+            "nro": 17,
+            "asignatura": "Probabilidades y Estadística",
+            "horas": {
+              "anuales": 3,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [
+                1,
+                2
+              ],
+              "aprobada": []
+            }
+          },
+          {
+            "nro": 18,
+            "asignatura": "Economía (2do Cuatr.)",
+            "horas": {
+              "anuales": 3,
+              "cuatrim": 6
+            },
+            "correlatividades": {
+              "cursada": [],
+              "aprobada": [
+                1,
+                2
+              ]
+            }
+          },
+          {
+            "nro": 19,
+            "asignatura": "Bases de Datos (1er Cuatr.)",
+            "horas": {
+              "anuales": 4,
+              "cuatrim": 8
+            },
+            "correlatividades": {
+              "cursada": [
+                13,
+                16
+              ],
+              "aprobada": [
+                5,
+                6
+              ]
+            }
+          },
+          {
+            "nro": 20,
+            "asignatura": "Desarrollo de Software (2do Cuatr.)",
+            "horas": {
+              "anuales": 4,
+              "cuatrim": 8
+            },
+            "correlatividades": {
+              "cursada": [
+                14,
+                16
+              ],
+              "aprobada": [
+                5,
+                6
+              ]
+            }
+          },
+          {
+            "nro": 21,
+            "asignatura": "Comunicación de Datos (1er Cuatr.)",
+            "horas": {
+              "anuales": 4,
+              "cuatrim": 8
+            },
+            "correlatividades": {
+              "cursada": [],
+              "aprobada": [
+                3,
+                7
+              ]
+            }
+          },
+          {
+            "nro": 22,
+            "asignatura": "Análisis Numérico",
+            "horas": {
+              "anuales": 3,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [
+                9
+              ],
+              "aprobada": [
+                1,
+                2
+              ]
+            }
+          },
+          {
+            "nro": 23,
+            "asignatura": "Diseño de Sistemas de Comunicación (Integradora)",
+            "horas": {
+              "anuales": 6,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [
+                14,
+                16
+              ],
+              "aprobada": [
+                4,
+                6,
+                8
+              ]
+            }
+          },
+          {
+            "nro": "E",
+            "asignatura": "Electivas 3er Nivel",
+            "horas": {
+              "anuales": 4,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [
+                6,
+                8
+              ],
+              "aprobada": []
+            }
+          }
+        ]
+      },
+      {
+        "nombre": "Cuarto Nivel",
+        "asignaturas": [
+          {
+            "nro": 24,
+            "asignatura": "Legislación (2doCuatr.)",
+            "horas": {
+              "anuales": 2,
+              "cuatrim": 4
+            },
+            "correlatividades": {
+              "cursada": [
+                11
+              ],
+              "aprobada": [
+                13,
+                14
+              ]
+            }
+          },
+          {
+            "nro": 25,
+            "asignatura": "Ingeniería y Calidad de Software (1erCuatr.)",
+            "horas": {
+              "anuales": 3,
+              "cuatrim": 6
+            },
+            "correlatividades": {
+              "cursada": [
+                19,
+                20,
+                23
+              ],
+              "aprobada": []
+            }
+          },
+          {
+            "nro": 26,
+            "asignatura": "Redes de Datos (2doCuatr.)",
+            "horas": {
+              "anuales": 4,
+              "cuatrim": 8
+            },
+            "correlatividades": {
+              "cursada": [
+                15,
+                21
+              ],
+              "aprobada": []
+            }
+          },
+          {
+            "nro": 27,
+            "asignatura": "Investigación Operativa (1erCuatr.)",
+            "horas": {
+              "anuales": 4,
+              "cuatrim": 8
+            },
+            "correlatividades": {
+              "cursada": [
+                17,
+                22
+              ],
+              "aprobada": []
+            }
+          },
+          {
+            "nro": 28,
+            "asignatura": "Simulación (1erCuatr.)",
+            "horas": {
+              "anuales": 3,
+              "cuatrim": 6
+            },
+            "correlatividades": {
+              "cursada": [
+                17
+              ],
+              "aprobada": [
+                9
+              ]
+            }
+          },
+          {
+            "nro": 29,
+            "asignatura": "Tecnologías para la automatización (1erCuatr.)",
+            "horas": {
+              "anuales": 3,
+              "cuatrim": 6
+            },
+            "correlatividades": {
+              "cursada": [
+                10,
+                22
+              ],
+              "aprobada": [
+                9
+              ]
+            }
+          },
+          {
+            "nro": 30,
+            "asignatura": "Administración de Sistemas de Información (Integradora)",
+            "horas": {
+              "anuales": 6,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [
+                18,
+                23
+              ],
+              "aprobada": [
+                16
+              ]
+            }
+          },
+          {
+            "nro": "E",
+            "asignatura": "Electivas 4to Nivel",
+            "horas": {
+              "anuales": 6,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [],
+              "aprobada": []
+            }
+          }
+        ]
+      },
+      {
+        "nombre": "Quinto Nivel",
+        "asignaturas": [
+          {
+            "nro": "31",
+            "asignatura": "Inteligencia Artificial (1erCuatr.)",
+            "horas": {
+              "anuales": 3,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [
+                28
+              ],
+              "aprobada": [
+                17,
+                22
+              ]
+            }
+          },
+          {
+            "nro": "32",
+            "asignatura": "Ciencia de Datos (2doCuatr.)",
+            "horas": {
+              "anuales": 3,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [
+                28
+              ],
+              "aprobada": [
+                17,
+                19
+              ]
+            }
+          },
+          {
+            "nro": "33",
+            "asignatura": "Sistemas de Gestión",
+            "horas": {
+              "anuales": 4,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [
+                18,
+                27
+              ],
+              "aprobada": [
+                23
+              ]
+            }
+          },
+          {
+            "nro": "34",
+            "asignatura": "Gestión Gerencial",
+            "horas": {
+              "anuales": 3,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [
+                24,
+                30
+              ],
+              "aprobada": [
+                18
+              ]
+            }
+          },
+          {
+            "nro": "35",
+            "asignatura": "Seguridad en los Sistemas de Información (1erCuatr.)",
+            "horas": {
+              "anuales": 3,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [
+                26,
+                30
+              ],
+              "aprobada": [
+                20,
+                21
+              ]
+            }
+          },
+          {
+            "nro": "36",
+            "asignatura": "Proyecto Final (Integradora)",
+            "horas": {
+              "anuales": 6,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [
+                25,
+                26,
+                30
+              ],
+              "aprobada": [
+                12,
+                20,
+                23
+              ]
+            }
+          },
+          {
+            "nro": "E",
+            "asignatura": "Electivas 5to Nivel",
+            "horas": {
+              "anuales": 10,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [],
+              "aprobada": []
+            }
+          },
+          {
+            "nro": "",
+            "asignatura": "Práctica Profesional Supervisada",
+            "horas": {
+              "anuales": 200,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [],
+              "aprobada": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "electiva": {
+    "niveles": [
+      {
+        "nombre": "Tercer Nivel",
+        "asignaturas": [
+          {
+            "nro": "E1",
+            "asignatura": "Programación Concurrente (1erCuatr.)",
+            "horas": {
+              "anuales": 2,
+              "cuatrim": 4
+            },
+            "correlatividades": {
+              "cursada": [
+                14,
+                15
+              ],
+              "aprobada": []
+            }
+          },
+          {
+            "nro": "E2",
+            "asignatura": "Sistemas en Tiempo Real (1erCuatr.)",
+            "horas": {
+              "anuales": 3,
+              "cuatrim": 6
+            },
+            "correlatividades": {
+              "cursada": [
+                15
+              ],
+              "aprobada": [
+                7
+              ]
+            }
+          },
+          {
+            "nro": "E3",
+            "asignatura": "Tecnología y Gestión Web (1erCuatr.)",
+            "horas": {
+              "anuales": 2,
+              "cuatrim": 4
+            },
+            "correlatividades": {
+              "cursada": [
+                13,
+                15
+              ],
+              "aprobada": [
+                6
+              ]
+            }
+          },
+          {
+            "nro": "E4",
+            "asignatura": "Sistemas de Transmisión y Redes Inalámbricas (2doCuatr.)",
+            "horas": {
+              "anuales": 2,
+              "cuatrim": 4
+            },
+            "correlatividades": {
+              "cursada": [
+                9
+              ],
+              "aprobada": [
+                7
+              ]
+            }
+          },
+          {
+            "nro": "E5",
+            "asignatura": "Responsabilidad Social e Institucional (1er y 2do Cuatr.)",
+            "horas": {
+              "anuales": 2,
+              "cuatrim": 4
+            },
+            "correlatividades": {
+              "cursada": [
+                8,
+                16
+              ],
+              "aprobada": []
+            }
+          },
+          {
+            "nro": "E6",
+            "asignatura": "Comunicación Profesional",
+            "horas": {
+              "anuales": 3,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [
+                11
+              ],
+              "aprobada": [
+                8
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "nombre": "Cuarto Nivel",
+        "asignaturas": [
+          {
+            "nro": "E7",
+            "asignatura": "Administración de Bases de Datos (2doCuatr.)",
+            "horas": {
+              "anuales": 2,
+              "cuatrim": 4
+            },
+            "correlatividades": {
+              "cursada": [
+                19
+              ],
+              "aprobada": [
+                15
+              ]
+            }
+          },
+          {
+            "nro": "E8",
+            "asignatura": "Desarrollo de Software Cloud (1erCuatr.)",
+            "horas": {
+              "anuales": 2,
+              "cuatrim": 4
+            },
+            "correlatividades": {
+              "cursada": [
+                15,
+                20,
+                23
+              ],
+              "aprobada": [
+                13,
+                14
+              ]
+            }
+          },
+          {
+            "nro": "E9",
+            "asignatura": "Diseño Inclusivo para Usuarios con Discapacidad (1erCuatr.)",
+            "horas": {
+              "anuales": 2,
+              "cuatrim": 4
+            },
+            "correlatividades": {
+              "cursada": [
+                23
+              ],
+              "aprobada": [
+                16
+              ]
+            }
+          },
+          {
+            "nro": "E10",
+            "asignatura": "Metodología para la Investigación (2doCuatr.)",
+            "horas": {
+              "anuales": 2,
+              "cuatrim": 4
+            },
+            "correlatividades": {
+              "cursada": [],
+              "aprobada": [
+                23
+              ]
+            }
+          },
+          {
+            "nro": "E11",
+            "asignatura": "Metodolgías Ágiles (2doCuatr.)",
+            "horas": {
+              "anuales": 3,
+              "cuatrim": 6
+            },
+            "correlatividades": {
+              "cursada": [
+                19,
+                20,
+                23
+              ],
+              "aprobada": [
+                16
+              ]
+            }
+          },
+          {
+            "nro": "E12",
+            "asignatura": "Tecnologías de Interfaces Interactivas (2doCuatr.)",
+            "horas": {
+              "anuales": 2,
+              "cuatrim": 4
+            },
+            "correlatividades": {
+              "cursada": [
+                23
+              ],
+              "aprobada": [
+                16
+              ]
+            }
+          },
+          {
+            "nro": "E13",
+            "asignatura": "Tecnologías para la Explotación de la Información (1erCuatr.)",
+            "horas": {
+              "anuales": 2,
+              "cuatrim": 4
+            },
+            "correlatividades": {
+              "cursada": [
+                17,
+                23
+              ],
+              "aprobada": [
+                14
+              ]
+            }
+          },
+          {
+            "nro": "E14",
+            "asignatura": "Aplicaciones Móviles",
+            "horas": {
+              "anuales": 3,
+              "cuatrim": 6
+            },
+            "correlatividades": {
+              "cursada": [
+                14,
+                23
+              ],
+              "aprobada": [
+                6
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "nombre": "Quinto Nivel",
+        "asignaturas": [
+          {
+            "nro": "E15",
+            "asignatura": "Ingeniería en Calidad",
+            "horas": {
+              "anuales": 3,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [
+                30
+              ],
+              "aprobada": [
+                23
+              ]
+            }
+          },
+          {
+            "nro": "E16",
+            "asignatura": "Internetworking",
+            "horas": {
+              "anuales": 4,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [
+                30
+              ],
+              "aprobada": [
+                26
+              ]
+            }
+          },
+          {
+            "nro": "E17",
+            "asignatura": "Protocolos y Seguridad en Redes Inalámbricas (2doCuatr.)",
+            "horas": {
+              "anuales": 2,
+              "cuatrim": 4
+            },
+            "correlatividades": {
+              "cursada": [
+                21,
+                26
+              ],
+              "aprobada": [
+                9,
+                10
+              ]
+            }
+          },
+          {
+            "nro": "E18",
+            "asignatura": "Sistemas en la Industria 4.0 (2doCuatr.)",
+            "horas": {
+              "anuales": 3,
+              "cuatrim": 6
+            },
+            "correlatividades": {
+              "cursada": [
+                19,
+                21,
+                25,
+                26
+              ],
+              "aprobada": [
+                7
+              ]
+            }
+          },
+          {
+            "nro": "E19",
+            "asignatura": "Tecnologías de Información para la Gestión Empresarial (1erCuatr.)",
+            "horas": {
+              "anuales": 2,
+              "cuatrim": 4
+            },
+            "correlatividades": {
+              "cursada": [
+                25
+              ],
+              "aprobada": [
+                23
+              ]
+            }
+          },
+          {
+            "nro": "E20",
+            "asignatura": "Emprendedorismo",
+            "horas": {
+              "anuales": 2,
+              "cuatrim": null
+            },
+            "correlatividades": {
+              "cursada": [
+                18,
+                24
+              ],
+              "aprobada": []
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
